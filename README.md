@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Hoppyken Currency Converter
 
-You can use the [editor on GitHub](https://github.com/hoppyken/Currency-Converter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use [Hoppyken](https://github.com/hoppyken/Currency-Converter/edit/master/README.md) as a currency converter application that allows converting currencies in both offline and online mode,  is also  fast and easy to use
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [hoppyken](https://github.com/hoppyken/Currency-Converter/edit/master/README.md) to rebuild the pages in your site.
 
-### Markdown
+### To use
+Simply select the base currency you like to exchange from and select the currency you will like to compare with, you can also add amount or value to get the total exchange rate. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+- Services Worker
+- Cache API
+- IndexedDB
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Building a progressive web application required all 3 api to provide a dynamic and massively improve the user experience
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To learn more about IndexedDB would recommend you check out the link below_
+[IndexedDB](https://w3c.github.io/IndexedDB/).
 
-### Jekyll Themes
+For more on services worker and cache api details see [Service Worker](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hoppyken/Currency-Converter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Github page
+
+This application is hosted on Github page [hoppyken](https://github.com/hoppyken/Currency-Converter/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Feel free to send me a mail at hopeochei@gmail.com
+or [contact support](https://github.com/contact) and we’ll help you sort it out.
